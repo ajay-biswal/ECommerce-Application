@@ -1,0 +1,176 @@
+{
+  "seller": [
+    {
+      "name": "Ajay Biswal",
+      "email": "ajay1@test.com",
+      "password": "abc@123",
+      "id": 3
+    },
+    {
+      "name": "Ajay Biswal",
+      "email": "ajay1@test.com",
+      "password": "abc@123",
+      "id": 4
+    },
+    {
+      "name": "Ajay Biswal",
+      "email": "ajay1@test.com",
+      "password": "abc@123",
+      "id": 5
+    },
+    {
+      "name": "Angela wariko",
+      "password": "angela@123",
+      "email": "angela12@er.com",
+      "id": 6
+    },
+    {
+      "name": "jonathan",
+      "password": "jonathon123",
+      "email": "jonathon@123@er.com",
+      "id": 7
+    },
+    {
+      "name": "peter jonas",
+      "password": "peter@123",
+      "email": "peter@123rt.ho",
+      "id": 8
+    },
+    {
+      "name": "salini",
+      "password": "salini@123",
+      "email": "salini@er.net",
+      "id": 9
+    },
+    {
+      "name": "salini",
+      "password": "salini@123",
+      "email": "salini@er.net",
+      "id": 10
+    },
+    {
+      "name": "salini",
+      "password": "rtyui",
+      "email": "salini23#rt.mt",
+      "id": 11
+    },
+    {
+      "name": "rtyutgg",
+      "password": "otiy",
+      "email": "jfgjv",
+      "id": 12
+    },
+    {
+      "name": "ava",
+      "password": "ava123",
+      "email": "avaser@hty.com",
+      "id": 13
+    },
+    {
+      "name": "asert",
+      "password": "awert",
+      "email": "asert@wer.byu",
+      "id": 14
+    },
+    {
+      "name": "",
+      "password": "",
+      "email": "",
+      "id": 15
+    },
+    {
+      "name": "",
+      "password": "",
+      "email": "",
+      "id": 16
+    },
+    {
+      "name": "ajay biswal",
+      "password": "ajaybiswal",
+      "email": "ajaybiswal@34.m",
+      "id": 17
+    },
+    {
+      "name": "abc",
+      "password": "abcd",
+      "email": "abc@gmail.com",
+      "id": 18
+    },
+    {
+      "name": "",
+      "password": "",
+      "email": "",
+      "id": 19
+    },
+    {
+      "name": "",
+      "password": "",
+      "email": "",
+      "id": 20
+    },
+    {
+      "name": "aryan",
+      "password": "aryan",
+      "email": "aryan@wert.lk",
+      "id": 21
+    }
+  ],
+  "products": [
+    {
+      "name": "Iphone 14",
+      "price": "100000",
+      "color": "Black",
+      "Description": "In Stock",
+      "image": "https://cdn.shopify.com/s/files/1/0568/5942/7015/products/MQ4X3HN_A_1.jpg?v=1662718700",
+      "id": 1
+    },
+    {
+      "name": "iphone",
+      "price": "1,00,000",
+      "color": "Black",
+      "Description": "",
+      "image": "https://d2xamzlzrdbdbn.cloudfront.net/products/a2a58710-2d8b-43c3-a7c5-e44e1a94a78b21170553.jpg",
+      "id": 2
+    },
+    {
+      "name": "iphone 12",
+      "price": "50,000",
+      "color": "Black",
+      "Description": "",
+      "image": "https://cellbuddy.in/buddy/wp-content/uploads/2022/09/12-Black.png",
+      "id": 3
+    },
+    {
+      "name": "Apple premium vinyl laptop",
+      "price": "2,00,000",
+      "color": "Rose Gold",
+      "Description": "",
+      "image": "https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T1/images/I/41ZJJLODSAL._SY450_.jpg",
+      "id": 4
+    }
+  ],
+  "users": [
+    {
+      "name": "Tony Stark",
+      "email": "tonystar@mc.usa",
+      "password": "abcd",
+      "id": 1
+    },
+    {
+      "name": "Thanos universe",
+      "email": "thanos@destroyer.kl",
+      "password": "abcd",
+      "id": 2
+    },
+    {
+      "name": "wanda wariko",
+      "email": "wariko@er.ner",
+      "password": "abcde",
+      "id": 3
+    }
+  ],
+  "cart":[
+    
+  ]
+  
+}
